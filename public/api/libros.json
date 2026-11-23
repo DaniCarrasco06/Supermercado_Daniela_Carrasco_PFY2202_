@@ -1,0 +1,14 @@
+[
+  { "id": 1, "titulo": "Cien años de soledad", "autor": "Gabriel García Márquez", "categoriaId": 1, "precio": 14990 },
+  { "id": 2, "titulo": "La casa de los espíritus", "autor": "Isabel Allende", "categoriaId": 1, "precio": 12990 },
+  { "id": 3, "titulo": "Pedro Páramo", "autor": "Juan Rulfo", "categoriaId": 1, "precio": 8990 },
+  { "id": 4, "titulo": "Dune", "autor": "Frank Herbert", "categoriaId": 2, "precio": 16990 },
+  { "id": 5, "titulo": "Fundación", "autor": "Isaac Asimov", "categoriaId": 2, "precio": 11990 },
+  { "id": 6, "titulo": "Neuromante", "autor": "William Gibson", "categoriaId": 2, "precio": 10990 },
+  { "id": 7, "titulo": "El nombre de la rosa", "autor": "Umberto Eco", "categoriaId": 3, "precio": 13990 },
+  { "id": 8, "titulo": "Asesinato en el Orient Express", "autor": "Agatha Christie", "categoriaId": 3, "precio": 9990 },
+  { "id": 9, "titulo": "El Hobbit", "autor": "J. R. R. Tolkien", "categoriaId": 4, "precio": 12490 },
+  { "id": 10, "titulo": "Un mago de Terramar", "autor": "Ursula K. Le Guin", "categoriaId": 4, "precio": 10490 },
+  { "id": 11, "titulo": "Sapiens", "autor": "Yuval Noah Harari", "categoriaId": 5, "precio": 15990 },
+  { "id": 12, "titulo": "Armas, gérmenes y acero", "autor": "Jared Diamond", "categoriaId": 5, "precio": 14490 }
+]

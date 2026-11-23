@@ -1,0 +1,8 @@
+[
+  { "id": 1, "slug": "cusco", "nombre": "Cusco", "pais": "Perú", "emoji": "🏔️", "descripcion": "Capital del antiguo Imperio inca, a 3.400 m de altura y puerta de entrada a Machu Picchu.", "actividades": ["Visita a Machu Picchu", "Valle Sagrado", "Montaña de 7 colores", "City tour por el centro histórico"] },
+  { "id": 2, "slug": "buenos-aires", "nombre": "Buenos Aires", "pais": "Argentina", "emoji": "💃", "descripcion": "Ciudad de teatros, librerías, parrillas y tango en cada barrio.", "actividades": ["Show de tango", "Paseo por San Telmo", "Cementerio de la Recoleta", "Tour gastronómico"] },
+  { "id": 3, "slug": "rio-de-janeiro", "nombre": "Río de Janeiro", "pais": "Brasil", "emoji": "🏖️", "descripcion": "Playas icónicas, morros y carnaval, entre el mar y la selva urbana.", "actividades": ["Cristo Redentor", "Pan de Azúcar", "Playa de Ipanema", "Escalón de Selarón"] },
+  { "id": 4, "slug": "ciudad-de-mexico", "nombre": "Ciudad de México", "pais": "México", "emoji": "🌮", "descripcion": "Metrópolis con pirámides, museos de clase mundial y una cocina única.", "actividades": ["Teotihuacán", "Museo Frida Kahlo", "Xochimilco", "Ruta de tacos"] },
+  { "id": 5, "slug": "madrid", "nombre": "Madrid", "pais": "España", "emoji": "🎨", "descripcion": "Capital cultural con el Triángulo del Arte, tapas y vida nocturna.", "actividades": ["Museo del Prado", "Parque del Retiro", "Palacio Real", "Ruta de tapas"] },
+  { "id": 6, "slug": "tokio", "nombre": "Tokio", "pais": "Japón", "emoji": "🗼", "descripcion": "Tradición y futuro conviviendo: templos, tecnología y gastronomía.", "actividades": ["Templo Senso-ji", "Cruce de Shibuya", "Mercado de Tsukiji", "Excursión al Monte Fuji"] }
+]

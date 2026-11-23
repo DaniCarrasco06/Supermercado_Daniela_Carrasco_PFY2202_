@@ -1,0 +1,7 @@
+[
+  { "id": 1, "slug": "ficcion", "nombre": "Ficción", "descripcion": "Novelas y cuentos que nacen de la imaginación del autor." },
+  { "id": 2, "slug": "ciencia-ficcion", "nombre": "Ciencia Ficción", "descripcion": "Futuros posibles, tecnología y mundos más allá de la Tierra." },
+  { "id": 3, "slug": "misterio", "nombre": "Misterio", "descripcion": "Crímenes, detectives y enigmas por resolver." },
+  { "id": 4, "slug": "fantasia", "nombre": "Fantasía", "descripcion": "Magia, criaturas y reinos imaginarios." },
+  { "id": 5, "slug": "historia", "nombre": "Historia", "descripcion": "Relatos y análisis de hechos reales del pasado." }
+]
